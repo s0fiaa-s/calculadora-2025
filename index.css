@@ -5,7 +5,10 @@
     width: 40rem;
     height: 70rem;
     border: 1px solid black;
+    border-radius: 15px;
+
 
     margin: auto;
     margin-top: 10rem;
+    background-color: rgb(250, 248, 215);
 }
